@@ -7,7 +7,7 @@
     -->
     <MDKVersion>1.5.17</MDKVersion>
     <MDKUseGameBinPath>yes</MDKUseGameBinPath>
-    <MDKGameBinPath>C:\Program Files\AutoHotkey\Compiler</MDKGameBinPath>
+    <MDKGameBinPath>C:\Users\Ian\Documents\Visual Studio 2019\SEGEM\Bin64</MDKGameBinPath>
     <MDKInstallPath>c:\users\ian\appdata\local\microsoft\visualstudio\17.0_037018f8\extensions\4o0hqem2.t53</MDKInstallPath>
     <MDKOutputPath>C:\Users\Ian\AppData\Roaming\SpaceEngineers\IngameScripts\local</MDKOutputPath>
   </PropertyGroup>
